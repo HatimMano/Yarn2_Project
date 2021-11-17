@@ -2,10 +2,10 @@
 TP Yarn 2
 
 1.8.1 Districts containing trees (very easy) :
-
-*11 	1
-*12	29
-*13	2
+```
+11 	1
+12	29
+13	2
 14	3
 15	1
 16	36
@@ -20,10 +20,10 @@ TP Yarn 2
 7	3
 8	5
 9	1
-
+```
 
 1.8.2 Show all existing species (very easy)
-
+```
 araucana
 atlantica
 australis
@@ -69,9 +69,9 @@ tulipifera
 ulmoides
 virginiana
 x acerifolia
-
+```
 1.8.3 Number of trees by kinds (easy)
-
+```
 araucana	1
 atlantica	2
 australis	1
@@ -117,9 +117,9 @@ tulipifera	2
 ulmoides	1
 virginiana	2
 x acerifolia	11
-
+```
 1.8.4 Maximum height per kind of tree (average)
-
+```
 araucana	9.0
 atlantica	25.0
 australis	16.0
@@ -165,9 +165,9 @@ tulipifera	35.0
 ulmoides	12.0
 virginiana	14.0
 x acerifolia	45.0
-
+```
 1.8.5 Sort the trees height from smallest to largest (average)
-
+```
 3 - Fagus sylvatica (Fagaceae)	2.0
 89 - Taxus baccata (Taxaceae)	5.0
 62 - Cedrus atlantica (Pinaceae)	6.0
@@ -264,3 +264,4 @@ x acerifolia	45.0
 40 - Platanus x acerifolia (Platanaceae)	40.0
 90 - Platanus x acerifolia (Platanaceae)	42.0
 21 - Platanus x acerifolia (Platanaceae)	45.0
+```
