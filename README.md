@@ -3,10 +3,9 @@ TP Yarn 2
 
 1.8.1 Districts containing trees (very easy) :
 
-11	1
-
-12	29
-13	2
+*11 	1
+*12	29
+*13	2
 14	3
 15	1
 16	36
